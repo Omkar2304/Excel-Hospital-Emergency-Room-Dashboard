@@ -30,7 +30,7 @@ that provides insights to support <b>data-driven decision making</b>.
 <h2>📸 Dashboard Preview</h2>
 
 <p align="center">
-<img src="dashboard.png" width="800">
+<img src="[dashboard.png](https://github.com/Omkar2304/Excel-Hospital-Emergency-Room-Dashboard/blob/476c6401f6a7a29ba9d22d0d58618e295dd1e73e/Screenshot%202026-03-11%20171549.png)" width="800">
 </p>
 
 <p align="center">
