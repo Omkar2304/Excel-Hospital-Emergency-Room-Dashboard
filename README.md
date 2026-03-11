@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Hospital Emergency Room Dashboard</title>
+  
 </head>
 
 <body>
