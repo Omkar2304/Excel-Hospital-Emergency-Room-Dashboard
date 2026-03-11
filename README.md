@@ -28,11 +28,9 @@ that provides insights to support <b>data-driven decision making</b>.
 <hr>
 
 <h2>📸 Dashboard Preview</h2>
-
 <p align="center">
-![image alt](https://github.com/Omkar2304/Excel-Hospital-Emergency-Room-Dashboard/blob/476c6401f6a7a29ba9d22d0d58618e295dd1e73e/Screenshot%202026-03-11%20171549.png)
+  <img src="https://raw.githubusercontent.com/Omkar2304/Excel-Hospital-Emergency-Room-Dashboard/main/Screenshot%202026-03-11%20171549.png" width="900">
 </p>
-
 <p align="center">
 <i>Interactive dashboard showing key emergency room metrics.</i>
 </p>
